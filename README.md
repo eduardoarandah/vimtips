@@ -2,28 +2,27 @@
 
 Tips de vim / neovim recopilados de vim_es en telegram 
 
+# Instalar
+
+```
+cp .env.example .env #editarlo
+yarn install
+```
+
 # Usar
 
 ```
-yarn install
-yarn dev
-```
-
-Para vigilar los cambios al código:
-
-```
-yarn watch
+node index.js
 ```
 
 # Requiere
 
 - node v15
 - yarn
-- nodemon
 
 # PENDIENTE
 
-- Usar docker en lugar de node global
+- Usar docker
 
 # Configuración del bot
 

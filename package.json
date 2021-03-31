@@ -6,14 +6,9 @@
   "repository": "https://github.com/eduardoarandah/vimtips",
   "author": "Eduardo <eduardoarandah@gmail.com>",
   "license": "MIT",
-  "type":"module",
+  "type": "module",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.1",
-    "nodeenv": "^3.0.50"
-  },
-  "scripts":{
-    "dev": "node index.js",
-    "watch": "nodemon node index.js"
+    "node-fetch": "^2.6.1"
   }
 }

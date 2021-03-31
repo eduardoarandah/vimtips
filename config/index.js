@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 export default {
-  bot: process.env.BOT,
-  chat: process.env.CHAT,
   token: process.env.TOKEN,
+  canal: process.env.CANAL,
+  env: process.env.ENV,
 };
