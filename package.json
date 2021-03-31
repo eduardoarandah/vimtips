@@ -1,0 +1,19 @@
+{
+  "name": "vimtips",
+  "version": "1.0.0",
+  "description": "Guardar tips del canal de vim",
+  "main": "index.js",
+  "repository": "https://github.com/eduardoarandah/vimtips",
+  "author": "Eduardo <eduardoarandah@gmail.com>",
+  "license": "MIT",
+  "type":"module",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "nodeenv": "^3.0.50"
+  },
+  "scripts":{
+    "dev": "node index.js",
+    "watch": "nodemon node index.js"
+  }
+}
