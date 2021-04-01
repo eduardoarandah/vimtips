@@ -1,6 +1,10 @@
 {
   "name": "vimtips",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "description": "Guardar tips del canal de vim",
   "main": "index.js",
   "repository": "https://github.com/eduardoarandah/vimtips",
@@ -9,6 +13,7 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7"
   }
 }
