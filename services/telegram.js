@@ -43,7 +43,7 @@ export default {
 
   // que cosa es un tip y que no
   isTip(message) {
-    return message.message.text.includes("#tip");
+    return message.message.text?.includes("#tip");
   },
 
   // filtrar tips
