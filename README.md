@@ -22,7 +22,6 @@ Si lo prefieres puedes usar docker con `docker-compose up`
 
 # PENDIENTE
 
-- Usar docker
 
 # Configuración del bot
 
