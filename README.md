@@ -14,6 +14,7 @@ yarn install
 `npm start` iniciar la app
 `npm run dev` iniciar la app y escuchar cambios
 
+Si lo prefieres puedes usar docker con `docker-compose up`
 # Requiere
 
 - node v15
@@ -21,7 +22,6 @@ yarn install
 
 # PENDIENTE
 
-- Usar docker
 
 # Configuración del bot
 
