@@ -11,9 +11,8 @@ yarn install
 
 # Usar
 
-```
-node index.js
-```
+`npm start` iniciar la app
+`npm run dev` iniciar la app y escuchar cambios
 
 # Requiere
 
